@@ -1,2 +1,2 @@
-# Helloworld
+# Samanyastra Internship
 My first repository;'
